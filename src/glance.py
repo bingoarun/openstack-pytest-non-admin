@@ -6,9 +6,11 @@ glance_results = {'key':'value'}
 '''
 Properties to check -
     status
+    image_count
     image_list
     image_upload
     image_delete
+    
     
 '''
 
